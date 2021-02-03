@@ -1,0 +1,24 @@
+exit
+pwd
+cat
+cd ..
+cd part2
+ls -a
+ls
+ls -r
+cat historyfile.txt
+cat -E historyfile.txt
+cat -E -n historyfile.txt
+echo
+echo "shruti\tjha"
+echo shruti\tjha
+echo -n shruti\tjha
+date
+dat -u
+date -u
+date -u -I
+date -l
+date -I
+date -i
+date hello
+exit 
